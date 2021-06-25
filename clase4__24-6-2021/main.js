@@ -4,7 +4,7 @@ const NOTA_COMPLICADA = 5;
 const CANTIDAD_NOTAS = parseInt(
   prompt(
     "Ingrese el numero de calificaciones a evaluar . Recuerde que la calificacion a ingresar debe estar em el rango de 0 a 10"
-  )
+  );
 );
 //Lets
 let nota,
